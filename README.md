@@ -1,0 +1,2 @@
+# MVPMC_SER_MOTD_READER
+一个使用uapis.cn的免费API接口制作的MINECRAFT服务器MOTD读取和格式化显示工具
